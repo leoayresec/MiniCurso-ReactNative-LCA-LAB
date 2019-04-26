@@ -18,7 +18,7 @@ Desestruturação de objetos e arrays
 Imports e exports.
 NPM ou YARN
 
-# 2. Introdução ao React Native
+2. Introdução ao React Native
 Criação de projeto
 Sdk do Expo o que é?
 O que são componentes?
