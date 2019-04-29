@@ -24,9 +24,9 @@ Ensinar os conceitos básicos do desenvolvimento de aplicações móveis utiliza
 1. [Ciclo de vida dos componentes](https://medium.com/@edmo_/m%C3%A9todos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782)
 2. [Random User Generator](https://randomuser.me/)
 3. Consumindo uma API
-Fetch com [AXIOS](https://github.com/axios/axios)
-Componente consumindo API
-Flatlist e SectionList
+4. Fetch com [AXIOS](https://github.com/axios/axios)
+5. Componente consumindo API
+6. Flatlist e SectionList
 
 # Dia 3
 1. [Navegação com React Navigation
@@ -35,18 +35,6 @@ Navegação entre stacks e estilização das telas](https://reactnavigation.org/
 # Dia 4
 1. Acompanhamentos dos projetos individuais.
 
-# 3- RECURSOS INSTRUCIONAIS (apoio pedagógico)  E  MATERIAL A SER UTILIZADO (Teoria e Prática)
-
-Android studio 
-nodejs
-yarn
-VisualStudioCode
-
-# 4- AVALIAÇÃO ( pontos positivos e dificuldades relacionados aos diversos componentes) : 
-
-No final do cursos, será solicitado aos alunos o desenvolvimento de um pequeno projeto. 
-
-# 5- BIBLIOGRAFIA
-
+# 2- BIBLIOGRAFIA
 
 https://facebook.github.io/react-native/
