@@ -11,8 +11,8 @@ Ensinar os conceitos básicos do desenvolvimento de aplicações móveis utiliza
 4. Estruturas de controle
 5. Estruturas de repetição
 6. [Features ES6](http://es6-features.org/#Constants)
-.. 1. [Desestruturação de objetos e arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Atribuicao_via_desestruturacao)
-.. 2. [Imports e exports.](http://www.reactnativeexpress.com/imports_and_exports)
+..* [Desestruturação de objetos e arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Atribuicao_via_desestruturacao)
+..* [Imports e exports.](http://www.reactnativeexpress.com/imports_and_exports)
 7. [NPM](https://www.npmjs.com/) ou [YARN](https://yarnpkg.com/pt-BR/)
 8. [Introdução ao React Native](https://facebook.github.io/react-native/docs/getting-started)
 9. [ReactNativeExpress](www.reactnativeexpress.com)
