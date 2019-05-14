@@ -1,22 +1,25 @@
-Exercícios
+# Exercícios de ES&
 # 1º exercício
 A partir do seguinte vetor e utilizando os métodos de array (map, reduce, filter e find:
 const usuarios = [ { nome: wellington, idade: 29, instituição: 'Ufra' }, { nome: 'Leonardo', idade: 23, instituição: 'Inss' }, { nome: 'Lucas', idade: 15, instituição: 'Ufra' }];
 
-1.1 Utilizando o mapCrie uma variável que contenha todas idades dos usuários: [23, 15, 30]
+1.1 Utilizando o map Crie uma variável que contenha todas idades dos usuários: [23, 15, 30]
 
 1.2 Utilizando o filter Crie uma variáveis que tenha apenas os usuários que são da instituição ufra e com mais de 18anos: [{ nome: 'Wellington', idade: 29, instituição: 'Ufra' }]
 
-1.3 Utilizando o find Crie uma variável que procura por um usuário faz parte da instituiçã Google: undefined
+1.3 Utilizando o find Crie uma variável que procura por um usuário faz parte da instituiçã Google: // undefined
 
 1.4 Unindo operações: Multiplique a idade de todos usuários por dois e depois realize um filtro nos usuários que possuemno máximo 50 anos
 
 # 2º exercício: 
 Converta as funções nos seguintes trechos de código em Arrow Functions:
+
 // 2.1
+
 const arr = [1, 2, 3, 4, 5];
+
 arr.map(function(item) { 
-return item + 10;});
+    return item + 10;});
 
 // 2.2 
 Dica: Utilize uma constante pra function
@@ -24,7 +27,7 @@ Dica: Utilize uma constante pra function
 const usuario = { nome: 'Wellington', idade: 29 };
 
 function mostraIdade(usuario) {
-     return usuario.idade;}
+    return usuario.idade;}
 
 mostraIdade(usuario);
 
@@ -72,8 +75,11 @@ A partir do array: const arr = [1, 2, 3, 4, 5, 6], defina uma variável x que re
 console.log(x); // 1
 console.log(y); // [2, 3, 4, 5, 6]
 
-Crie uma função que recebe inúmeros parâmetros e retorna a soma de todos eles:// function soma...
+Crie uma função que recebe inúmeros parâmetros e retorna a soma de todos eles:
+// function soma...
+
 console.log(soma(1, 2, 3, 4, 5, 6)); // 21
+
 console.log(soma(1, 2)); // 3
 
 4.2 Spread
@@ -91,3 +97,5 @@ Utilize a sintaxe curta de objetos (Object Short Syntax) no seguinte objeto:
 const nome = 'Wellington Silva';
 const idade = 23;
 const usuario = {  nome: nome,  idade: idade,  cidade: 'Marituba',};
+
+# 7º exercício
