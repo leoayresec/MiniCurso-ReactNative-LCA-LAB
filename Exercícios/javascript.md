@@ -1,5 +1,5 @@
 Exercícios
-#1º exercício
+# 1º exercício
 A partir do seguinte vetor e utilizando os métodos de array (map, reduce, filter e find:
 const usuarios = [ { nome: wellington, idade: 29, instituição: 'Ufra' }, { nome: 'Leonardo', idade: 23, instituição: 'Inss' }, { nome: 'Lucas', idade: 15, instituição: 'Ufra' }];
 
@@ -11,7 +11,7 @@ const usuarios = [ { nome: wellington, idade: 29, instituição: 'Ufra' }, { nom
 
 1.4 Unindo operações: Multiplique a idade de todos usuários por dois e depois realize um filtro nos usuários que possuemno máximo 50 anos
 
-#2º exercício: 
+# 2º exercício: 
 Converta as funções nos seguintes trechos de código em Arrow Functions:
 // 2.1
 const arr = [1, 2, 3, 4, 5];
@@ -48,7 +48,7 @@ const promise = function() {
         return resolve(); })}
 
 
-#3º exercício
+# 3º exercício
 
 3.1 Desestruturação simplesA partir do seguinte objeto:
 const empresa = {  nome: 'Ufra',  endereco: {    cidade: 'Belém',    estado: 'PA',  }};
