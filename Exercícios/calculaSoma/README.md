@@ -1,4 +1,4 @@
-# Um simples app ue calcula a soma de dois números
+# Um simples app que calcula a soma de dois números
 o arquivo principal está na pasta /paginas
 
 # Para rodar o projeto
