@@ -48,7 +48,8 @@ mostraUsuario(nome);
 
 const promise = function() { 
     return new Promise(function(resolve, reject) { 
-        return resolve(); })}
+        return resolve(); }
+    )}
 
 
 # 3º exercício
@@ -82,12 +83,9 @@ console.log(soma(1, 2, 3, 4, 5, 6)); // 21
 
 console.log(soma(1, 2)); // 3
 
-4.2 Spread
-A partir do objeto e utilizando o operador spread:const usuario = {  nome: 'wellington',  idade: 29,  endereco: {    cidade: 'Marituba',    uf: 'PA',    pais: 'Brasil',  }};Crie uma variável usuario2 que contenha todos os dados do usuário porém com nome Gabriel.Crie uma variável usuario3 que contenha todos os dados do usuário porém com cidade Lontras.
-
 # 5º Exercício
 Converta o seguinte trecho de código utilizando Template Literals:
-const usuario = 'Diego';
+const usuario = 'wellington';
 const idade = 23;
 console.log('O usuário ' + usuario + ' possui ' + idade + ' anos');
 
