@@ -53,7 +53,7 @@ const promise = function() {
 
 # 3º exercício
 
-3.1 Desestruturação simplesA partir do seguinte objeto:
+3.1 Desestruturação simples a partir do seguinte objeto:
 const empresa = {  nome: 'Ufra',  endereco: {    cidade: 'Belém',    estado: 'PA',  }};
 Utilize a desestruturação para transformar as propriedades nome, cidade e estado em variáveis, no fim deve ser possível fazer o seguinte:
 console.log(nome); // Ufra
